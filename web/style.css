@@ -1,0 +1,33 @@
+div {}
+
+.nav-bar {
+    width: 100%;
+    background-color: red;
+    height: auto;
+    position: fixed;
+}
+
+.innter {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.nav-bar img {
+    height: 50px;
+}
+
+.start_page {
+    height: 768px;
+}
+
+.s1 {
+    height: 85vh;
+}
+
+.s2 {
+    height: 85vh;
+}
+
+.s2 {
+    height: 85vh;
+}
