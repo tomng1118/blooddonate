@@ -1,24 +1,12 @@
-div {}
-
-.nav-bar {
-    width: 100%;
-    background-color: white;
-    box-shadow: 0px 0px 5px black;
-    height: auto;
-    position: fixed;
-}
-
-.innter {
-    width: 500px;
-    margin: 0 auto;
-}
-
-.nav-bar img {
-    height: 50px;
-}
-
 .start_page {
     height: 768px;
+    background-color: rgb(198, 198, 198);
+}
+
+.big-pic {}
+
+.story {
+    margin: 50px;
 }
 
 .s1 {
@@ -29,6 +17,18 @@ div {}
     height: 90vh;
 }
 
-.s2 {
-    height: 85vh;
+.s3 {
+    height: 90vh;
+}
+
+
+/*footer*/
+
+.footer {
+    height: 300px;
+    background-color: rgb(57, 62, 78);
+}
+
+;
+
 }
