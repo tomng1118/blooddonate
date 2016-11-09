@@ -2,7 +2,8 @@ div {}
 
 .nav-bar {
     width: 100%;
-    background-color: red;
+    background-color: white;
+    box-shadow: 0px 0px 5px black;
     height: auto;
     position: fixed;
 }
@@ -21,11 +22,11 @@ div {}
 }
 
 .s1 {
-    height: 85vh;
+    height: 90vh;
 }
 
 .s2 {
-    height: 85vh;
+    height: 90vh;
 }
 
 .s2 {
